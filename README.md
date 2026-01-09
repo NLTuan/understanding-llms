@@ -9,3 +9,5 @@ In addition, I tried to finetune GPT2 using 2 techniques: replacing the final la
 ALSO, I finetuned a BERT model for movie sentiment classification. 
 
 Overall, I explored both the encoder and decoder transformer models families and used their pretrained counterparts to finetune on appropriate tasks. For the decoder, I also created one from scratch and pretrained it.
+
+ALSO #2, explored sentence similarity
